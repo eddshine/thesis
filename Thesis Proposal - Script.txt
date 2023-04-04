@@ -1,0 +1,78 @@
+THESIS PROPOSAL DEFENSE
+
+[OPENING]
+	Good day everyone, I am Edward Jr Cabello, a student of Bachelor of Science in Computer Science. Today, I am here to present my thesis proposal entitled "Sci-AR: Enhance Science Learning Through Augmented Reality".
+
+[INTRODUCTION]
+	Students tend to lose focus in their studies whenever they start losing motivation. Sometimes, traditional teaching can be monotonous and tedious, leading to disinterest and disconnection from the learning process. Moreover, the learning materials utilized are primarily static in nature, consisting of paper-based resources. Therefore, such materials lack the ability to convey information dynamically through motion or continuous movement. To tackle this issue, an Augmented Reality app (has been?/will be?) developed to assist teachers and help students easily understand science through Augmented Reality.
+	
+[PURPOSE OF THE STUDY]
+	The purpose of this study is to assist teachers in teaching science to their students and to help students learn and understand science better. This will help decrease the chances of losing focus and motivation while learning science. Augmented Reality will be utilized to allow students to interact and explore scientific concepts, providing them with a hands-on learning experience that can enhance their understanding.
+	
+[THEORETICAL AND CONCEPTUAL FRAMEWORK]
+	
+	[CONCEPTUAL FRAMEWORK]
+		The conceptual framework for my thesis involves the process of overlaying a 3D model into an augmented reality environment. This process consists of two main components, which are depicted in the figure: the Unity3D game engine and the ARCore software development kit. The Unity3D component is responsible for creating and rendering the 3D model, while the ARCore component uses Simultaneous Localization and Mapping (SLAM) technology to track the user's device and overlay the 3D model into the real world. This framework provides a foundation for the development of my thesis, which aims to enhance science learning through the use of mobile augmented reality technology.
+	
+	[THEORETICAL FRAMEWORK
+		Theoretical Framework for this study is based on the Technology Acceptance Model (TAM) which aims to measure users' acceptance of new technology. This model consists of two main constructs: Perceived Usefulness (PU) and Perceived Ease of Use (PEOU). Perceived Usefulness refers to the extent to which a user believes that using a particular technology will enhance their performance or productivity, while Perceived Ease of Use refers to the degree to which a user believes that using a particular technology will be free of effort. By using TAM, we will be able to gather feedback on how the respondents respond to the new technology presented to them. With the help of this model, we can evaluate the success of our proposed mobile augmented reality application and assess whether it is acceptable to the users.
+
+[OBJECTIVES]
+
+	[GENERAL OBJECTIVES]
+		The general objective of the study is to develop a Mobile Augmented Reality Application specifically designed for Grade 5 students of St. Peter’s College in Iligan City. Using ARCore which uses Simultaneous Localization and Mapping Algorithm to determine the device position and orientation through camera and Unity3D creating and rendering the 3D Model. Moreover, to evaluate the effectiveness of the application, the study will use the Technology Acceptance Model.
+	
+	[SPECIFIC OBJECTIVES]
+		This study has three specific objectives. The first objective is to develop a Mobile Augmented Reality (MAR) application for science learning, which includes various functionalities such as account registration, login/logout, pre-added 3D models, dark/light theme, augmented reality, notes for note-keeping, pre-added quiz, and creating/editing/deleting lessons and quizzes. The second objective is to assess the effectiveness and acceptance of the MAR application by students using the Technology Acceptance Model. The third objective is to assess the perceived software quality level of the system by experts with respect to functionality, reliability, usability, efficiency, maintainability, and portability.
+	
+[SCOPE AND LIMITATIONS]
+	
+	[SCOPE]
+		The scope of this study is to develop a Mobile Augmented Reality Application for learning science that will be used by Grade 5 students at St. Peter's College in Iligan City. The focus is solely on the creation of the Mobile Application, which includes the functionalities mentioned in the previous section of the study. The system will utilize ARCore to implement Augmented Reality and enable the superimposition of 3D objects or models onto the augmented world. The algorithm, SLAM, which is already included inside ARCore SDK and Unity3D a game engine, will be responsible for overlaying the 3D models and determining the device's position and orientation. The Technology Acceptance Model will be used to gauge the system's effectiveness and acceptance by the users.
+
+	[LIMITATIONS]
+		The study has several limitations that need to be considered. First, the study is limited to Grade 5 students at St. Peter's College in Iligan City. Second, the Mobile Application will only be developed for Android devices and will not be compatible with other platforms. Third, the study will only focus on the system's effectiveness in improving students' motivation towards science learning. Lastly, the study will not cover other platforms, devices, and documentation tools outside the scope of the Mobile Augmented Reality Application.
+		
+[SIGNIFICANCE OF THE STUDY]
+	The research on the development of a Mobile Augmented Reality Application for learning science aims to benefit both teachers and students. Teachers can use the app as an assistive learning tool or visual aid for their students. Students, on the other hand, can utilize the application for learning and understanding science concepts easily.
+	
+	Moreover, this research can also serve as a valuable source of ideas and inspiration for future researchers interested in pursuing similar research. The system developed in this study can be a useful reference or benchmark for those who intend to utilize the application in the future. The study's focus on improving students' motivation towards science learning can contribute to the development of future educational technology tools that aim to improve students' learning outcomes.
+	
+[SDLC]
+	For my thesis study, I decided to use the waterfall model for the development of my Mobile Augmented Reality Application. I chose this model because it is a linear and sequential approach to software development that involves distinct phases, with each phase building upon the previous one. This makes it ideal for the construction of a complex system like my application, which involves many different functionalities and components.
+
+	One of the key advantages of the waterfall model is that it provides a clear and well-defined process for software development, which helps to minimize the risk of errors and ensure that each phase is completed before moving on to the next. This is particularly important for my study, as I need to ensure that each feature and functionality of the application is developed and tested thoroughly before moving on to the next stage.
+
+	Additionally, the waterfall model is well-suited for projects that have a clear and defined scope, which is the case with my study. With the scope and objectives of the study already outlined, I can use the waterfall model to plan and execute each stage of development, making sure that the final product meets all the necessary requirements.
+
+	Overall, the use of the waterfall model in my thesis study provides a structured and organized approach to software development, which helps to ensure the success of the project and the final product.
+	
+[PROPOSED FRAMEWORK]
+	In my proposed framework, it shows the beneficiaries and the functionalities they can access. First is the student. The student can register, as well as log in and log out. Also, the student can view lessons, create, edit, and delete notes, answer quizzes, and lastly, use augmented reality.
+
+	Second is the teacher. The teacher can register, log in and log out, create, edit, and delete notes, lessons, and quizzes, upload 3D models, and lastly, use augmented reality.
+	
+[TOOLS AND TECHNIQUES USED IN THE STUDY]
+	In my tools and techniques, I used four (4) diagrams to visually represent information, processes, and systems, namely: Use Case Diagram, Sequence Diagram, Entity-Relationship Diagram, and Activity Diagram.
+	
+	[USE CASE DIAGRAM]
+		So, in Figure 5, you can see my use case diagram. It basically shows how people using the system can achieve their goals. For my application, I made use cases for both the teacher and the student.
+
+		For the teacher, they can log in and log out, create, edit, or delete lessons, create, edit, or delete quizzes, and create, edit, or delete notes. They can also import 3D models and attach them to the lessons they created. And if they want to check out the 3D model in augmented reality, they can do that too.
+
+		As for the student, they can view or delete the lessons created by the teacher, answer quizzes that are part of the lessons, and use augmented reality to view and explore any 3D models that are attached. They can also create, edit, or delete their own notes.
+		
+	[SEQUENCE DIAGRAM]
+		In my sequence diagram, it shows the sequence diagram for the application when the user is using Augmented Reality. To start, both the student and the teacher need to create an account. After that, they can select an existing 3D model. When they do this, the Unity3D engine will take care of the model's texture, and then ARCore will overlay the 3D model onto the augmented world.
+		
+	[ENTITY-RELATIONSHIP DIAGRAM]
+		In the entity relationship diagram, teachers and students is presented. The diagram shows that a teacher can have one or many lessons, each of which they can create,edit, and delete. For each lesson, a teacher can also create one quiz, and include zero or one 3D model to be used in augmented reality. Additionally, a teacher can create zero or one notes for each lesson, and all of this information will be stored in the database.
+
+		On the other hand, a student can also have one or many lessons. For each lesson, there is one quiz for the student to answer, and zero or one 3D model to be viewed and explored in augmented reality. All of this information will also be recorded in the database.
+
+	[ACTIVITY DIAGRAM]
+		[STUDENT]
+			In this diagram, it shows the activity diagram for the student and it shows the steps a student takes when using the app. First, the student attempts to login to access the app's features. If unsuccessful, the student may register or try to login again. Once logged in, the student checks for available lessons created by teachers. If there are no lessons, the student can come back later. If there is a lesson available, the student can read it and view any attached 3D models in augmented reality (AR) if desired, then take the quiz. Alternatively, the student can take the quiz first and then view the 3D model in AR.
+			
+		[TEACHER]
+			In this diagram, it shows the activity diagram for the student and it shows the steps a teacher takes when using the app. First, the teacher must log in or register to access the app's features. Once logged in, the teacher can create a new lesson or share an existing one. If desired, the teacher can also attach a 3D model to the lesson for students to use in augmented reality. After creating the lesson, the teacher can share it with students through WLAN, and students can sync the lesson to their devices by connecting to the teacher's hotspot. Finally, students can view the lesson with the attached 3D models and use augmented reality to overlay them in the real world.
